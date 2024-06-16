@@ -1,5 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Flock <img src="https://github.com/dylanwilliams1126/Flock_ReactNative/blob/master/src/assets/images/logo.png" width="80">
+
+## App Preview
+
+<img src="https://github.com/dylanwilliams1126/Flock_ReactNative/blob/master/src/assets/screens/1.png" width="500" alt="Screen 1" hspace="5">
+
+<img src="https://github.com/dylanwilliams1126/Flock_ReactNative/blob/master/src/assets/screens/3.png" width="500" alt="Screen 2" hspace="5">
+
+<img src="https://github.com/dylanwilliams1126/Flock_ReactNative/blob/master/src/assets/screens/4.png" width="500" alt="Screen 3" hspace="5">
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
